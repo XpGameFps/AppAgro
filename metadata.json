@@ -1,0 +1,6 @@
+{
+  "name": "AgroCampo",
+  "description": "Manual e calculadoras de campo para população de plantas, estande, sementes, perdas, fertilizantes, calibração, plantas daninhas e MIP offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
